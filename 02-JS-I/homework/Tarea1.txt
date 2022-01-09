@@ -1,0 +1,23 @@
+	* Variables
+Una variable es un nombre para representar un valor de un dato, por ejemplo, si tenemos un programa que suma dos número, necesitamos un nombre para identificar el valor1 y el valor2 (mira, esto mismo nos serviría como variables, valor1 y valor2 podrían ser el nombre de nuestras variables)
+
+Para la computadora las variables no son más que posiciones de memoria donde están guardados esos datos.
+
+	* Strings
+Es una secuencia de caracteres usado para representar el texto.
+
+	* Funciones (argumentos, `return`)
+Una función no es más que un conjunto de líneas de código que hacen una tarea en concreto, y esta función puede retornar un valor...
+
+O no… Las funciones tienen la posibilidad de tener parámetros o argumentos, que son variables que modifican su comportamiento.
+
+Gracias a la funciones podemos segmentar el código en diferentes partes, haciéndolo de este modo más sencillo.
+
+RETURN. Una función JavaScript puede devolver un resultado si se introduce la sentencia return resultado; donde resultado es aquello que queremos devolver (normalmente una variable que contiene un valor numérico, de texto o booleano, pero también podrían ser objetos con mayor complejidad como un array).
+
+	* Declaraciones `if`
+La sentencia condicional if se usa para tomar decisiones, este evaluá básicamente una operación lógica, es decir una expresión que de como resultado True o False , y ejecuta la pieza de código siguiente siempre y cuando el resultado sea verdadero.
+
+	* Valores booleanos (`true`, `false`)
+
+Un operador de tipo booleano es un dato que solo puede tener dos valores ya que representa valores de lógica binaria, y por lo general se pueden mostrar con un dato que sea Verdadero o Falso. 
