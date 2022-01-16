@@ -58,7 +58,7 @@ function divide(x, y) {
   return (x/y);
 }
   else {
-    rerturn FontFaceSetLoadEvent;
+    rerturn Falso;
   }
 }
 
