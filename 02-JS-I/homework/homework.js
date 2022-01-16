@@ -154,8 +154,15 @@ function elevar(num, exponent) {
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
+  resta = num % 1;
+  entero = num = resta;
   if (resta>=0.5){
-    return 
+    return (entero+1);
+  }
+  else{
+    return(entero)
+  }
+  return math.round(num)
     
 }
 
