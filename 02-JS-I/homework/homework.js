@@ -56,18 +56,14 @@ function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
   return (x/y);
-}
-  else {
-    rerturn Falso;
-  }
-}
+
 
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
   if (x===y) {
-    returb verdadero;
+    return verdadero;
     
 }
 
@@ -75,7 +71,7 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (str1.length===str2.length)}
+  if (str1.length===str2.length){
     return true;
 }
 
