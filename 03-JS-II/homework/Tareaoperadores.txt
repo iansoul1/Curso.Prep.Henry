@@ -1,0 +1,6 @@
+* `for`
+El ciclo for es uno de los más utilizados en programación debido a que permite repetir varias instrucciones (pasos) un cierto número de ocasiones (por ejemplo, 10 veces). Se emplea en el recorrido de vectores, matrices y estructuras, entre otros.
+
+* `&&` AND lógico: verdadero (true) si ambos operandos son verdaderos (true).
+`||` OR lógico: verdadero (true) si uno o los dos operandos son verdaderos (true)
+`! XOR lógico: verdadero (true) si exactamente un operando es verdadero (true)

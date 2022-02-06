@@ -1,0 +1,5 @@
+Un array, es un conjunto de variables. Es como una lista de variables. Y para acceder a esas variables de dentro del array se utiliza un índice o posición.
+
+Por ejemplo
+
+Imaginemos que tenemos un array con cinco elementos. Aquí vemos cinco números, que serían las cinco variables que forman este array. Para acceder a uno de esos números tendríamos que indicarle al array que posición queremos.

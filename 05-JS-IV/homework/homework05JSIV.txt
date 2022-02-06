@@ -1,0 +1,15 @@
+	* Objetos
+Es una unidad dentro de un programa informático que tiene un estado, y un comportamiento. Es decir, tiene una serie de datos almacenados y tareas que realiza con esos datos en el tiempo de ejecución. ... Es decir, de una misma clase, podemos instanciar varios objetos.
+
+	* Propiedades
+Los campos y propiedades representan información que contiene un objeto. Los campos se parecen a las variables ya que se pueden leer y establecer directamente. Las propiedades tienen procedimientos get y set, que proporcionan un mayor control sobre la forma en que se establecen o devuelven los valores.
+
+	* Métodos
+Es una subrutina cuyo código es definido en una clase y puede pertenecer tanto a una clase, como es el caso de los métodos de clase o estáticos, como a un objeto, como es el caso de los métodos de instancia.
+
+	* Bucle `for…in`
+Nos permite repetir instrucciones un número fijo de veces que indicamos con una serie de condiciones sobre una variable iteradora.
+
+	* Notación de puntos vs notación de corchetes
+
+En objeto es en realidad un arreglo asociativo (por ejemplo map ,dictionary ,hash ,lookup table ). Las claves en este arreglo son los nombres de las propiedades y los métodos (propiedades que hacen referencia a funciones). Hay dos modos de acceder a estas propiedades: notación por punto y notación por corchete (es decir, operador de subscripción).
